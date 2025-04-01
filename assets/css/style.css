@@ -90,12 +90,12 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     display: inline-block;
     padding: 9px 0 21px;
     font-size: 16px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 400;
 }
 .header-menu ul li span {
     font-size: 13px;
-    color: #063232;
+    color: #1e1e1e;
     margin-left: 5px;
     position: relative;
     top: -1px;
@@ -259,7 +259,7 @@ section.hero_area {
     padding-bottom: 17px;
     border-radius: 30px;
     display: inline-block;
-    background-color: #0c6e6d;
+    background-color: #024783;
     -webkit-transition: 0.4s;
     transition: 0.4s;
     border: none;
@@ -278,7 +278,7 @@ section.hero_area {
 	transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
 }
 .hero_btn a:hover, .hero_btn a:focus {
-	color: #0c6e6d;
+	color: #024783;
 }
 .hero_btn a:hover span, .hero_btn a:focus span {
 	width: 200%;
@@ -297,7 +297,7 @@ section.hero_area {
 }
 .hero_btn a:hover:before {
     width: 120px;
-    background: #0c6e6d;
+    background: #024783;
     z-index: 1;
 }
 .hero_btn {
@@ -384,7 +384,7 @@ section.brand_area {
 }
 h2.brand_title {
     font-size: 18px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 400;
     text-align: center;
     position: relative;
@@ -396,7 +396,7 @@ h2.brand_title:before {
     content: "";
     height: 2px;
     width: 50px;
-    background: #006666;
+    background: #024783;
     top: 29%;
     left: 0;
     right: 0;
@@ -424,7 +424,7 @@ section.brand_area.style_two {
 }
 .section_title h4 {
     font-size: 16px;
-    color: #0c6e6d;
+    color: #024783;
     font-weight: 500;
     margin-bottom: 20px;
     position: relative;
@@ -433,7 +433,7 @@ section.brand_area.style_two {
 .section_title h1 {
     font-size: 42px;
     line-height: 42px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 600;
 }
 .section_title.style_two h1 {
@@ -525,7 +525,7 @@ section.feature_area {
     width: 8px;
     height: 8px;
     border-radius: 4px;
-    background-color: #0c6e6d;
+    background-color: #c19ee0;
     position: absolute;
     content: "";
     left: 0;
@@ -538,7 +538,7 @@ section.feature_area {
 .feature_item:after {
     width: 1px;
     height: 25px;
-    background-color: #0c6e6d;
+    background-color: #c19ee0;
     position: absolute;
     content: "";
     left: 1px;
@@ -554,7 +554,7 @@ section.feature_area {
 .feature_content h3 {
     font-size: 20px;
     line-height: 30px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     margin-bottom: 16px;
     margin-top: 20px;
@@ -587,7 +587,7 @@ h6.feature_no {
 <-- Sater Css Service Area -->
 ==============================================*/
 section.service_area {
-    background: #063232;
+    background: #1e1e1e;
     padding: 179px 0 89px;
     position: relative;
     top: -75px;
@@ -617,14 +617,14 @@ section.service_area.boxed {
     transition: .5s;
 }
 .service_single_item:hover:before {
-    background: #0c6e6d;
+    background: #024783;
 }
 .service_thumb img {
     width: 100%;
 }
 .service_content {
     border-radius: 0 0 20px 20px;
-    background-color: #0a4b4b;
+    background-color: #024783;
     transition: .5s;
     text-align: left;
     padding: 34px 40px 27px;
@@ -659,7 +659,7 @@ section.service_area.boxed {
     margin-top: 0;
 }
 .service_single_item:hover .service_content h3 {
-    color: #063232;
+    color: #1e1e1e;
 }
 /* ====Service Button====== */
 .service_btn {
@@ -779,15 +779,15 @@ section.service_area.boxed {
     -webkit-background-clip: text;
     letter-spacing: 0;
     -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #0c6e6d;
+    -webkit-text-stroke-color: #024783;
     color: transparent;
-    -webkit-mask-image: linear-gradient(-75deg, #0c6e6d 50%, #0c6e6d 50%, #0c6e6d);
+    -webkit-mask-image: linear-gradient(-75deg, #024783 50%, #024783 50%, #024783);
     -webkit-mask-size: 200%;
     animation: shine 3s infinite;
     transition: .5s;
 }
 .marquee.style2 .marquee-block span {
-    color: #0c6e6d;
+    color: #024783;
     font-size: 120px;
     font-weight: 700;
 }
@@ -912,7 +912,7 @@ left: 50%;
 .about_content h1 {
     font-size: 28px;
     line-height: 38px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     margin-bottom: 20px;
 }
@@ -921,7 +921,7 @@ left: 50%;
 .about_list ul li {
     font-size: 18px;
     line-height: 38px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
 }
 .about_list ul li i {
@@ -964,7 +964,7 @@ left: 50%;
     height: 0;
     display: block;
     border-radius: 30px;
-    background-color: #063232;
+    background-color: #1e1e1e;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     -webkit-transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
@@ -1081,7 +1081,7 @@ left: 50%;
   <--- Start consalt Counter Area CSS --->
 ========================================= */
 section.counter_area {
-    background: #063232;
+    background: #1e1e1e;
     border-radius: 30px;
     padding: 67px 0 42px;
 }
@@ -1223,7 +1223,7 @@ h3.steps_number {
 .pagination span {
     font-size: 15px;
     line-height: 26px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
 }
 .pagination a {
@@ -1237,7 +1237,7 @@ h3.steps_number {
   <--- Start consalt Pricing Area CSS --->
 ============================================================ */
 section.pricing-area {
-    background-color: #063232;
+    background-color: #1e1e1e;
     padding: 158px 0 90px;
     border-radius: 0 0 20px 20px;
     margin-top: -20px;
@@ -1296,7 +1296,7 @@ section.pricing-area .section_title p {
 }
 .pricing-title h3 {
     font-size: 24px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     margin: 0;
 }
@@ -1529,7 +1529,7 @@ section.team_area {
 }
 .team-content h3 a {
     font-size: 24px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     display: inline-block;
     margin-bottom: 8px;
@@ -1540,7 +1540,7 @@ section.team_area {
 ============================================================ */
 
 .testimonial_area {
-    background: #0C6D6D;
+    background: #024783;
     padding: 30px 0 30px;
     position: relative;
     border-radius: 30px;
@@ -1733,7 +1733,7 @@ section.team_area {
 .blog-title h3 a {
     font-size: 22px;
     line-height: 32px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     display: inline-block;
     margin-bottom: 14px;
@@ -1795,7 +1795,7 @@ section.team_area {
   <--- Start consalt Footer Area CSS --->
 ============================================================ */
 .footer_area {
-    background: #063232;
+    background: #01325e;
     padding: 120px 0 30px;
     border-radius: 30px;
 }
@@ -1844,7 +1844,7 @@ button.btn {
 }
 button.btn:hover {
     background: #fff;
-    color: #063232;
+    color: #1e1e1e;
 }
 .footer-widget-title h4 {
     font-size: 22px;
@@ -1888,7 +1888,7 @@ button.btn:hover {
     width: 25px;
     height: 25px;
     border-radius: 13px;
-    background-color: #0c6e6d;
+    background-color: #024783;
     font-size: 9px;
     color: #fff;
     line-height: 25px;
@@ -2066,7 +2066,7 @@ section.hero_area.style_two .hero_content {
     width: 30px;
     height: 30px;
     border-radius: 50%;
-    background-color: #0c6e6d;
+    background-color: #024783;
     z-index: -1;
 }
 .hero_area.style_two .hero_content p {
@@ -2131,10 +2131,10 @@ section.hero_area.style_two .hero_content {
     background: #f3f8f8;
 }
 .counter-single-item.style_two .counter-_number h1 {
-    color: #063232;
+    color: #1e1e1e;
 }
 .counter-single-item.style_two .counter-_number span {
-    color: #063232;
+    color: #1e1e1e;
 }
 .counter-single-item.style_two .counter_title h5 {
     font-size: 18px;
@@ -2174,7 +2174,7 @@ section.about_area.style_two {
     line-height: 180px;
 }
 .about_play.style_two .text-inner text {
-    fill: #063232;
+    fill: #1e1e1e;
 }
 .about_play.style_two .text-inner:before {
     display: none;
@@ -2219,7 +2219,7 @@ section.about_area.style_two {
 }
 .about_content.style_two h3 {
     font-size: 20px;
-    color: #063232;
+    color: #1e1e1e;
     line-height: 30px;
     margin-bottom: 0;
 }
@@ -2294,18 +2294,18 @@ section.about_area.style_two {
    display: none;
 }
 .style_two.service_single_item .service_content h4 {
-    color: #0c6e6d;
+    color: #024783;
     font-size: 15px;
     font-weight: 400;
     margin: 36px 0 20px;
     position: relative;
 }
 .service_single_item.style_two .service_content h3 {
-    color: #063232;
+    color: #1e1e1e;
     font-size: 20px;
 }
 .service_single_item.style_two .service_content h3 {
-    color: #063232;
+    color: #1e1e1e;
     font-size: 20px;
     margin: 0 0 10px;
 }
@@ -2409,7 +2409,7 @@ section.skills_area {
 .prossess-ber-plugin span {
     margin-top: 11px;
     font-size: 16px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 400;
 }
 .barfiller {
@@ -2457,7 +2457,7 @@ span.fill {
 .sskills_author_text h3 {
     font-size: 20px;
     line-height: 26px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     margin: 0 0 5px;
 }
@@ -2572,7 +2572,7 @@ section.call_area {
   <--- Start consalt Testimonial Area Style Two CSS --->
 ============================================================ */
 section.testimonial_area.style_two {
-    background: #063232;
+    background: #01325e;
     border-radius: 0;
     padding: 120px 0 117px;
 }
@@ -2630,7 +2630,7 @@ section.testimonial_area.style_two {
     margin-left: 0;
 }
 .testimonial_item.style_two .tesit-auothor .bio h4.name {
-    color: #063232;
+    color: #1e1e1e;
     margin: 0;
 }
 .testimonial_item.style_two .tesit-auothor .bio h5.designation {
@@ -2669,7 +2669,7 @@ section.testimonial_area.style_two {
     text-align: center;
 }
 .testi_list .owl-prev i, .testi_list .owl-next i:hover {
-    background: #006666;
+    background: #024783;
     color: #fff;
 }
 /* ====== Brand style Uppwer ===== */
@@ -2774,7 +2774,7 @@ section.case-study-area.style_two {
 }
 .case-study_box .case-study-single-box .consalt_btn a {
     background: #e0f1df;
-    color: #063232;
+    color: #1e1e1e;
     padding: 7px 25px 7px;
 }
 .case_box-shape {
@@ -2815,7 +2815,7 @@ section.pricing-area.style_two {
 }
 .pricing_list ul li {
     font-size: 16px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
 }
 .consalt_btn.five {
@@ -2976,7 +2976,7 @@ section.call_area.style_two .call-do-content h2 {
     width: 100%;
     height: 56px;
     border-radius: 5px;
-    background: #0c6e6d;
+    background: #024783;
     border: 0;
     outline: 0;
     font-size: 16px;
@@ -2986,7 +2986,7 @@ section.call_area.style_two .call-do-content h2 {
 }
 .contact-form button:hover {
     background: #ffff;
-    color: #0c6e6d;
+    color: #024783;
 }
 /* call shape  */
 .call_shape_two {
@@ -3078,7 +3078,7 @@ section.footer_area.style_two {
     position: relative;
 }
 .footer_area.style_two button.btn {
-    background-color: #0c6e6d;
+    background-color: #024783;
     width: 36px;
     height: 36px;
     border-radius: 50%;
@@ -3131,7 +3131,7 @@ section.footer_area.style_two {
     width: 8px;
     height: 8px;
     border-radius: 4px;
-    background-color: #0c6e6d;
+    background-color: #024783;
 }
 
 /* ================= Start Home Three Css================= */
@@ -3140,7 +3140,7 @@ section.footer_area.style_two {
   <--- Start consalt Consalt Topber Area Style Two CSS --->
 ============================================================ */
 .topber_area.style_two {
-    background: #063232;
+    background: #1e1e1e;
     position: relative;
     z-index: 1;
 }
@@ -3150,7 +3150,7 @@ section.footer_area.style_two {
     left: -24px;
     height: 100%;
     width: 53%;
-    background: #0C6E6D;
+    background: #024783;
     z-index: -1;
     transform: skew(-34deg);
 }
@@ -3160,7 +3160,7 @@ section.footer_area.style_two {
     right: 0;
     left: 85px;
     margin: auto;
-    background: #0C6E6D;
+    background: #024783;
     width: 5px;
     height: 100%;
     top: 0;
@@ -3196,21 +3196,21 @@ section.footer_area.style_two {
     padding: 8px 0 8px;
 }
 .consalt-header-area.style_three .header-menu ul li a {
-    color: #063232;
+    color: #1e1e1e;
 }
 .consalt-header-area.style_three .header-menu ul li span {
-    color: #063232;
+    color: #1e1e1e;
 }
 .consalt-header-area.style_three  .header-search-button.search-box-outer {
     padding: 0px 35px 0 0;
 }
 .consalt-header-area.style_three .header-search-button a {
-    color: #063232;
+    color: #1e1e1e;
     display: inline-block;
     font-size: 15px;
 }
 .header-button.style_two a {
-    background: #0c6e6d;
+    background: #024783;
     padding: 15px 31px;
     border-radius: 5px;
     border: 1px solid transparent;
@@ -3223,7 +3223,7 @@ section.footer_area.style_two {
     margin: 0 0 0 16px;
 }
 .consalt-header-area.style_three .nav-btn span i {
-    color: #0c6e6d;
+    color: #024783;
     width: 56px;
     height: 56px;
     border-radius: 4px;
@@ -3243,7 +3243,7 @@ section.footer_area.style_two {
     color: #ffff !important;
 }
 .sticky.consalt-header-area.style_three .header-menu ul.sub_menu li a {
-    color: #006666!important;
+    color: #024783!important;
 }
 .sticky.consalt-header-area.style_three .header-menu ul.sub_menu li a:hover {
     color: #ffff!important;
@@ -3279,7 +3279,7 @@ section.hero_area.style_three {
     background-position: center center;
 }
 .hero_area.style_three .hero_content h4 {
-    color: #0c6e6d;
+    color: #024783;
     margin-bottom: 18px;
     padding-left: 0;
 }
@@ -3287,7 +3287,7 @@ section.hero_area.style_three {
     display: none;
 }
 .hero_area.style_three .hero_content h1 {
-    color: #063232;
+    color: #1e1e1e;
     position: relative;
 }
 .hero_area.style_three .hero_content h1:before {
@@ -3305,10 +3305,10 @@ section.hero_area.style_three {
     color: #6b7a7a;
 }
 .hero_area.style_three .hero_video_btn a {
-    color: #063232;
+    color: #024783;
 }
 .hero_area.style_three .hero_video_btn span {
-    color: #063232;
+    color: #024783;
 }
 .hero_area.style_three .hero_btn a {
     border-radius: 5px;
@@ -3382,7 +3382,7 @@ section.hero_area.style_three {
     border: 5px solid #fff;
 }
 .about_play.style_three .text-inner text {
-    fill: #063232;
+    fill: #1e1e1e;
     font-weight: 400;
     font-size: 30px;
     text-transform: uppercase;
@@ -3431,7 +3431,7 @@ section.hero_area.style_three {
     top: 0;
     height: 100%;
     width: 100%;
-    background: #063232;
+    background: #1e1e1e;
     z-index: -1;
     transform: rotate(-1deg);
 }
@@ -3619,7 +3619,7 @@ section.service_area.style_two.style_three.inner_page {
     color: #ffff;
     font-size: 14px;
     margin: 14px 0;
-    background: #0c6e6d;
+    background: #024783;
     display: inline-block;
     padding: 3px 20px;
     line-height: 28px;
@@ -3648,7 +3648,7 @@ section.service_area.style_two.style_three.inner_page {
 }
 .service_single_item.style_three .service_btn a {
     letter-spacing: 0px;
-    color: #063232 !important;
+    color: #1e1e1e !important;
     text-transform: capitalize;
     font-size: 15px;
 }
@@ -3705,11 +3705,11 @@ section.service_area.style_two.style_three.inner_page {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background: #B5D3D1 !important;
+    background: #bfe1ff !important;
 }
 
 .service_list2 .owl-dot.active {
-    background: #0c6e6d !important;
+    background: #024783!important;
     width: 12px;
     border-radius: 50%;
     height: 12px;
@@ -3777,7 +3777,7 @@ section.why_choose_us {
 }
 .choose_list ul li {
     font-size: 16px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 400;
 }
 .choose_list ul li i {
@@ -3790,7 +3790,7 @@ section.why_choose_us {
     width: 60px;
     height: 60px;
     border-radius: 30px;
-    background-color: #0c6e6d;
+    background-color: #024783;
     line-height: 64px;
     font-size: 30px;
     text-align: center;
@@ -3806,12 +3806,12 @@ section.why_choose_us {
     height: 77px;
     border-radius: 50%;
     background-color: rgba(12,110,109,0);
-    border: 1px solid #0c6e6d;
+    border: 1px solid #085aa6;
 }
 .choose_right .hero_video_btn span {
     margin-left: 4px;
     font-size: 16px;
-    color: #063232;
+    color: #024783;
     font-weight: 500;
     position: relative;
     top: -6px;
@@ -4108,7 +4108,7 @@ section.testimonial_area.style_three {
 }
 
 .testi_list2 .owl-dot.active {
-    background: #0c6e6d !important;
+    background: #024783!important;
     width: 12px;
     border-radius: 50%;
     height: 12px;
@@ -4251,7 +4251,7 @@ section.contact_area {
 }
 .form-box textarea {
     width: 100%;
-    height: 120px;
+    height: 150px;
     border-radius: 4px;
     background-color: #ffffff;
     border: 1px solid rgba(6,50,50,0.1);
@@ -4274,6 +4274,7 @@ section.contact_area {
 .contact-form-box.style_two .contact-form button {
     width: 46%;
     height: 56px;
+    margin-top:15px;
     font-size: 16px;
     font-weight: 500;
 }
@@ -4408,22 +4409,22 @@ section.footer_area.style_three {
     color: #0B7574 !important;
 }
 .footer-widget-content.style_two .subscribe_form input::placeholder {
-    color: #063232;
+    color: #1e1e1e;
 }
 .footer-widget-content.style_two .footer-widget-title h4 {
     margin-bottom: 34px;
     font-size: 24px;
-    color: #063232;
+    color: #1e1e1e;
 }
 .footer-widget-content.style_two .footer-widget-menu ul li a {
-    color: #063232;
+    color: #1e1e1e;
     line-height: 34px;
 }
 .footer-widget-content.style_two .footer-widget-menu ul li a:hover {
     color: #0c6e6d;
 }
 .recent-post-text.style_two a {
-    color: #063232;
+    color: #1e1e1e;
 }
 .recent-post-text.style_two span {
     color: #6b7a7a;
@@ -4444,16 +4445,16 @@ section.footer_area.style_three {
     margin-top: 84px;
 }
 .row.add-border.style_two:before {
-    background: #0632326b;
+    background: #1e1e1e6b;
 }
 .footer-bottom-content-copy.style_two p {
-    color: #063232;
+    color: #1e1e1e;
 }
 .footer-bottom-menu.style_two ul li a {
-    color: #063232;
+    color: #1e1e1e;
 }
 .footer-bottom-menu.style_two ul li a:hover {
-    color: #063232;
+    color: #1e1e1e;
 }
 
 /* ==============================================================
@@ -5377,10 +5378,10 @@ section.footer_area.style_four .footer_widget_icon i {
 .consalt-header-area.style_five .header-menu ul li a {
     display: inline-block;
     padding: 28px 0 28px;
-    color: #063232 ;
+    color: #1e1e1e ;
 }
 .consalt-header-area.style_five .header-menu ul li a span {
-    color: #063232 ;
+    color: #1e1e1e ;
 }
 .consalt_header-right.style_two .header-search-button.search-box-outer {
     padding: 0px 16px 0 0;
@@ -5431,7 +5432,7 @@ section.footer_area.style_four .footer_widget_icon i {
     box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.1);
 }
 .sticky.consalt-header-area.style_five .header-menu ul li a i {
-    color: #063232 ;
+    color: #1e1e1e ;
 }
 
 /*
@@ -5491,7 +5492,7 @@ h1.consalt-slider-title {
     margin-top: 15px;
     font-size: 56px;
     line-height: 70px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 600;
 }
 p.consalt-slider-des {
@@ -5508,10 +5509,10 @@ p.consalt-slider-des {
     margin: 0 0 30px;
 }
 .consalt-slider-height .slider_info a {
-    color: #063232;
+    color: #1e1e1e;
 }
 .consalt-slider-height .slider_info span {
-    color: #063232;
+    color: #1e1e1e;
 }
   .consalt-slider-title-box {
     opacity: 0;
@@ -5620,7 +5621,7 @@ section.feature_area.style_four {
 .feature_item.style_four .feature_content h3 {
     transition: .5s;
     font-size: 22px;
-    color: #063232 !important;
+    color: #1e1e1e !important;
     font-weight: 600;
     margin: 20px 0 13px;
 }
@@ -5667,7 +5668,8 @@ section.feature_area.style_four {
 }
 h4.feature_numbers {
     color: transparent;
-    -webkit-text-stroke: #078588;
+    -webkit-text-stroke: #0859a6;
+    font-weight: bold;
     -webkit-text-stroke-width: 1px;
     font-size: 55px;
     position: absolute;
@@ -5719,7 +5721,7 @@ section.about_area.style_five {
 }
 .about-icon_box.style_three .about_content.style_two h3 {
     font-size: 24px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     margin: 0;
 }
@@ -5903,7 +5905,7 @@ section.service_area.styel_five .section_title.text-center {
     height: 0;
     display: block;
     border-radius: 30px;
-    background-color: #063232;
+    background-color: #1e1e1e;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     -webkit-transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
@@ -6112,7 +6114,7 @@ section.testimonial_area.style_five {
 .testimonial_item.style_five .tesit-auothor .bio h4.name {
     margin: 0;
     font-size: 20px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
 }
 .testimonial_item.style_five .tesit-auothor .bio h5.designation {
@@ -6380,11 +6382,11 @@ section.hero_slider.style_sixs {
     margin-bottom: 13px;
     width: 12px;
     height: 12px;
-    background: #D1DFDF;
+    background: #01325e;
     position: relative;
 }
 section.hero_slider.style_sixs .swiper-pagination-bullet-active {
-    background: #078588!important;
+    background:#01325e!important;
     height: 14px;
     width: 14px;
 }
@@ -6393,7 +6395,7 @@ section.hero_slider.style_sixs .swiper-pagination-bullet-active {
     content: "";
     left: -3px;
     top: -3px;
-    border: 1px dashed #078588;
+    border: 1px dashed #024783;
     height: 20px;
     width: 20px;
     border-radius: 50%;
@@ -7195,7 +7197,7 @@ section.faq_area {
     font-weight: 500;
     display: flex;
     justify-content: space-between;
-    color: #063232 !important;
+    color: #1e1e1e !important;
 }
 .accordion li a:before {
     position: absolute;
@@ -7221,7 +7223,7 @@ section.faq_area {
     background: #fff;
 }
 a.active {
-    color: #063232 !important;
+    color: #1e1e1e !important;
     background: #fff !important;
     filter: drop-shadow(0px 10px 100px rgba(12,110,109,0.1)) !important;
 }
@@ -7231,7 +7233,7 @@ a.active {
 }
 .accordion li a i {
     font-size: 15px;
-    color: #063232;
+    color: #1e1e1e;
     transform: rotate(0deg);
 }
 .accordion li a.active i {
@@ -7261,7 +7263,7 @@ a.active {
     z-index: 1;
     font-size: 16px;
     line-height: 32px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     background: #F3F8F8;
     border-radius: 30px;
@@ -7307,7 +7309,7 @@ a.active {
     bottom: 0;
     content: "";
     height: 2px;
-    background: #063232;
+    background: #1e1e1e;
     width: 0%;
     transition: .5s;
 }
@@ -7317,7 +7319,7 @@ a.active {
 }
 .prot-text h3 a {
     font-size: 34px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 600;
     display: inline-block;
 }
@@ -7377,7 +7379,7 @@ section.portfolio_details {
 }
 .port_details_content h2 {
     font-size: 42px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 600;
 }
 p.quote {
@@ -7386,7 +7388,7 @@ p.quote {
 p.port_text {
     font-size: 20px;
     line-height: 30px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     padding-left: 80px;
     width: 69%;
@@ -7434,7 +7436,7 @@ p.port_text:before {
 }
 .sidebar_text h5 {
     font-size: 16px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     margin: 6px 0 0;
 }
@@ -7470,7 +7472,7 @@ p.port_text:before {
 .pagination_btn a {
     display: inline-block;
     font-size: 18px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
 }
 .pagination_btn a img {
@@ -7533,7 +7535,7 @@ ul.blog-category li a {
 .blog-details-contents h3 {
     margin-bottom: 28px;
     font-size: 28px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     margin-top: 90px;
 }
@@ -7558,7 +7560,7 @@ ul.blog-category li a {
 }
 .blog-details-comment-content h2 {
     font-size: 20px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     margin-bottom: 10px;
     margin-top: 4px;
@@ -7601,7 +7603,7 @@ ul.blog-category li a {
 .comment-title h3 {
     margin-bottom: 12px;
     font-size: 28px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
 }
 #comment-msg-box {
@@ -7691,23 +7693,23 @@ section.contact_area.inner_section {
     border: 2px solid transparent;
     color: #fff;
     background: #fff;
-    color: #0c6e6d;
+    color: #024783;
     transition: .5s;
 }
 .contact_main_info .call-do-action-info:hover .call-do-social_icon i {
     color: #fff;
-    background: #0c6e6d;
+    background: #024783;
 }
 .contact_main_info .call_info p {
-    color: #6b7a7a;
+    color: #1e1e1e;
 }
 .contact_main_info .call_info h3 {
-    color: #063232;
+    color: #024783;
     font-weight: 500;
     margin: 7px 0 0;
 }
 .contact_main_info .call_info span {
-    color: #063232;
+    color:#024783;
     margin: 10px 0 0;
     display: inline-block;
 }
@@ -7746,7 +7748,7 @@ section.contact_area.inner_section {
     transform: translateY(-10px);
 }
 .feature_item.style_two:hover {
-    border: 1px solid #0c6e6d;
+    border: 1px solid #024783;
 }
 .feature_item.style_two:before, .feature_item:after{
     display: none;
@@ -7755,11 +7757,11 @@ section.contact_area.inner_section {
     transition: .5s;
 }
 .feature_item.style_two .feature_content h3:hover {
-    color: #0c6e6d;
+    color: #024783;
 }
 .feature_btn a {
     display: inline-block;
-    color: #0c6e6d;
+    color: #024783;
     font-size: 24px;
     margin-top: 6px;
 }
@@ -7784,7 +7786,7 @@ section.contact_area.inner_section {
 }
 .service_details_content h2 {
     font-size: 42px;
-    color: #063232;
+    color: #024783;
     font-weight: 600;
 }
 p.details_decs1 {
@@ -7821,7 +7823,7 @@ p.details_decs2 {
 }
 h2.sidebar_title {
     font-size: 26px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 500;
     margin-bottom: 12px;
 }
@@ -7831,7 +7833,7 @@ h2.sidebar_title {
 .sidebar-list ul li {
     font-size: 16px;
     line-height: 38px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 400;
 }
 .sidebar-list ul li i {
@@ -7887,7 +7889,7 @@ h2.error-title {
     margin: 83px 0 13px;
     display: inline-block;
     font-size: 40px;
-    color: #063232;
+    color: #1e1e1e;
     font-weight: 600;
 }
 
@@ -8781,7 +8783,7 @@ button.close-search i {
     top: 0;
     width: 100%;
     height: 100%;
-    background: #0c6e6d;
+    background: #01325e;
     z-index: 1000;
 }
 
