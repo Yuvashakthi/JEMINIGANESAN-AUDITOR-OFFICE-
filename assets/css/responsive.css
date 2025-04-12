@@ -1452,7 +1452,7 @@
 
     /* === Start Consalt Home Five Css ==== */
 
-    p.consalt-slider-des {
+    p.-slider-des {
         width: 49%;
     }
     .feature_item.style_four {
@@ -1496,7 +1496,7 @@
     section.testimonial_area.style_five {
         padding: 110px 0 321px 15px;
     }
-    section.testimonial_area.style_five .consalt_btn.home_five {
+    section.testimonial_area.style_five ._btn.home_five {
         margin-bottom: 30px;
     }
     .testimonial_item.style_five .testimonial-content:before {
